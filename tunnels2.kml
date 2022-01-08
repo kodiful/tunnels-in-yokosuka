@@ -1,0 +1,754 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+  <Document>
+    <name>横須賀トンネルめぐり（トンネル区間）</name>
+    <description><![CDATA[]]></description>
+    <Folder>
+      <name>横須賀トンネルめぐり（トンネル区間）</name>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新横須賀</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.65582869946957,35.2835117363578,0.0 139.65697199106216,35.28314171042762,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>横須賀</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.65567849576473,35.28340445090713,0.0 139.65696930885315,35.28304537203821,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新逸見</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.64928947389126,35.28662678406381,0.0 139.6500787138939,35.28545325002628,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>逸見</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6489079296589,35.286555080746254,0.0 139.6499553322792,35.28538975609518,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新吉浦</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6452882885933,35.28935091573937,0.0 139.6477049589157,35.28810188784104,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>吉浦</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.64520581066608,35.2892682681259,0.0 139.64701361954212,35.28797928283692,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>長浦</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.64124754071236,35.29157853816992,0.0 139.64320689439774,35.29088672292617,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新長浦</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.64140847325325,35.29019161779461,0.0 139.6439404785633,35.28973733326307,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>吾妻</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.63919028639793,35.29179418190268,0.0 139.63827565312386,35.291805128269715,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新吾妻</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.63729664683342,35.290916278445124,0.0 139.63890597224236,35.29063385860051,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>田浦</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.63491082191467,35.2921554112338,0.0 139.63611245155334,35.291915139176396,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新田浦</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.63479414582253,35.29194414700251,0.0 139.63591396808624,35.29142309918394,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>船越</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.63010430335999,35.29795784691635,0.0 139.63049590587616,35.297353651172166,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新船越</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.62986692786217,35.29800381814699,0.0 139.63038593530655,35.29720041240402,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>浦郷</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.62499737739563,35.3057222363761,0.0 139.62512880563736,35.304577435252625,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新浦郷</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.62479084730148,35.30569596961028,0.0 139.62493300437927,35.30455335704358,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>追浜</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.63677083281323,35.3140235414677,0.0 139.6372509482269,35.31451161389086,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>山之脇</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.63395652500435,35.314571254825815,0.0 139.63377212313458,35.31438521873655,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>深浦</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.63377547589585,35.31395842844417,0.0 139.6326053622131,35.31404159801119,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>皆ヶ作</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.62651875940605,35.30795686185279,0.0 139.62719936994358,35.307081322580764,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>筒井</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6328688892488,35.310615159904756,0.0 139.6335079255466,35.310298882829464,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>榎戸</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.63558328477188,35.310441152947156,0.0 139.63526611355587,35.31010845935727,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>第二浜見台</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.62860685912415,35.307914179533014,0.0 139.62802414921566,35.30779160454068,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>第一浜見台</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6278933915262,35.30793059581252,0.0 139.62781091359898,35.30845044294075,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>梅田</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.63275355426117,35.30552283923215,0.0 139.63369702128216,35.307348363063056,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>日向</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6332383635406,35.30505167666371,0.0 139.63496034172817,35.305375635425946,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>比与宇</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.64385588792607,35.29392575163829,0.0 139.64528952864453,35.29416328121563,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>大山田</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.62345902947231,35.294308863515234,0.0 139.6238157632713,35.29351308338793,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>田浦山</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.62413226393505,35.29320111792955,0.0 139.62522660521313,35.293089466841735,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>湘南鷹取第二</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.61553712514683,35.30715847985975,0.0 139.61539765027806,35.30608264903057,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>湘南鷹取第一</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.62086935666844,35.30584296554405,0.0 139.6215640488033,35.306231493212685,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新沼間</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6193874361877,35.297129605704946,0.0 139.62047909525677,35.29736822044108,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>沼間</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.61936061409756,35.29722154908109,0.0 139.62047104862972,35.29745797442581,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>池上</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6392880859737,35.26984736425707,0.0 139.63794161704823,35.27076710316401,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>池上</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6394517007236,35.27004773683714,0.0 139.63827286986157,35.27083498824097,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新沢山</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.64666013745114,35.27131237201415,0.0 139.6464013042812,35.270196647286035,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>沢山</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.64603384164616,35.27090615801862,0.0 139.64627926377102,35.27021854585836,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>関根</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.5998609545593,35.24754049915751,0.0 139.5979512217407,35.2461900632857,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>久留和</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.5978479566936,35.24590420171315,0.0 139.59663559821888,35.24310029532004,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>佐島</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6189354839687,35.22730131876034,0.0 139.61821799305721,35.22709536295313,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>住吉</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6601289510727,35.24352054726435,0.0 139.661083817482,35.24255449644018,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>住吉</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.66024696826935,35.24356216824308,0.0 139.6611589193344,35.242637739367936,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>光の丘</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6837564292316,35.22273511201544,0.0 139.6809642496471,35.22218075176803,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>鴨居</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.7385432305698,35.25487057492713,0.0 139.73882486251637,35.25639827506864,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新鴨居</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.73862235573574,35.25643934187936,0.0 139.7383822980289,35.25500582409425,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>観音崎</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.74161033657833,35.25567275798234,0.0 139.7430265429382,35.2550572953779,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>走水第一</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.71847091940685,35.2628619349535,0.0 139.71611057547375,35.262360410627686,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>走水第二</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.71581821469113,35.26218739496552,0.0 139.71531530050083,35.26135899523657,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>中里</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6665353062515,35.27491291564521,0.0 139.66657889214798,35.27445690308194,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>若松</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.66626708535,35.2785351955529,0.0 139.66870655444905,35.278617306715105,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>坂本</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.65271991816803,35.27593222856213,0.0 139.65398927358433,35.275453229728924,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新坂本</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6494208010797,35.27025741580971,0.0 139.65084706572338,35.26963932662769,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新池上</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6485980334644,35.26878527181392,0.0 139.6473896983032,35.26785237088272,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>阿部倉</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6410140874748,35.261845195178694,0.0 139.64177851704403,35.26534158767032,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>阿部倉</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.64115088013455,35.26183095963625,0.0 139.64189116982266,35.265324067758336,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>大明寺</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.65808098343655,35.264035248843335,0.0 139.65794150856777,35.262450203420606,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>大楠</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.63367556361004,35.24961156189189,0.0 139.63613716093346,35.251082959033646,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>千駄ヶ崎</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.71119933002478,35.21374617173761,0.0 139.71166652268448,35.2147806384781,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>千駄</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.7092038872604,35.21682594080778,0.0 139.7100662174587,35.215965303455214,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>神明第三</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.707286778367,35.21810948420948,0.0 139.70502902892872,35.21998573285724,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>神明第二</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.70414054719254,35.22091425446544,0.0 139.70223349658295,35.222328654576,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>神明第一</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.7015388044481,35.222682524644696,0.0 139.6992099764709,35.22374741226116,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>川間</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.7231969716911,35.23034513126209,0.0 139.72203959850117,35.23294353767046,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>長瀬</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.723110525136,35.231978457132605,0.0 139.7227805188803,35.23235107388368,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>浦賀</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.70375766185566,35.24769492713066,0.0 139.7055004271631,35.24812206680101,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>金子</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.65811249939247,35.23399569332045,0.0 139.6582164349918,35.23498484959092,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新金子</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.65826337364956,35.23400007499166,0.0 139.6583538982038,35.23493172245656,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>新衣笠</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6638195696239,35.24387849859206,0.0 139.66393155185028,35.2450570159993,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>衣笠</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6639791610603,35.24385823582885,0.0 139.66410254267498,35.24504222987399,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>小矢部</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.66662789298914,35.24565814605092,0.0 139.6655207606916,35.24629027888585,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>金堀</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.68543817428395,35.26023656305867,0.0 139.68605508235737,35.260897431105896,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>公郷</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.68041909066483,35.26299990835018,0.0 139.68190838722035,35.264943556235195,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>平六</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6280684056644,35.31282961198219,0.0 139.62913324264332,35.31274206375536,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>向坂</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.6230942490463,35.31425554038586,0.0 139.62258328822895,35.31472063055247,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>本公郷</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.67076716152474,35.25759084677946,0.0 139.67115071741387,35.25754430505369,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>枇杷山</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.66275272098824,35.260077778714916,0.0 139.66248986450478,35.26066473170403,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>山崎ふれあい</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.68049218086048,35.262933659248546,0.0 139.68243879405304,35.265076051097836,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>汐入二号 </name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.65719585446163,35.277322130283295,0.0 139.65704498020455,35.278564208173044,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>汐入一号 </name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.65668891695782,35.280912553712774,0.0 139.6562778684263,35.282201651508096,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>船越防災</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.62193553475186,35.299598905823146,0.0 139.62045361427113,35.300594923109024,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>ながかま</name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.63877310184284,35.288709776690006,0.0 139.6366206291084,35.289412557228886,0.0</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <styleUrl>#line</styleUrl>
+        <name>西逸見吉倉 </name>
+        <description><![CDATA[]]></description>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>139.64441646961018,35.28315682963138,0.0 139.64603853551193,35.281236609102294,0.0</coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Style id='line'>
+      <LineStyle>
+        <color>7f0000ff</color>
+        <width>8</width>
+      </LineStyle>
+    </Style>
+  </Document>
+</kml>
