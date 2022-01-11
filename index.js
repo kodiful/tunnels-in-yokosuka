@@ -15,15 +15,15 @@ function initialize() {
     //乱数
     var rand = "?" + new Date().getTime();
     //ルート
-    var url = "https://kodiful.github.io/yokosuka-tunnels/route.kml" + rand;
+    var url = "https://kodiful.github.io/tunnels-in-yokosuka/route.kml" + rand;
     var layer = new google.maps.KmlLayer(url, {map:map, suppressInfoWindows:true, zIndex:1});
     google.maps.event.addListener(layer, 'click', eventHandler);
     //トンネル区間
-    var url = "https://kodiful.github.io/yokosuka-tunnels/tunnels2.kml" + rand;
+    var url = "https://kodiful.github.io/tunnels-in-yokosuka/tunnels2.kml" + rand;
     var layer = new google.maps.KmlLayer(url, {map:map, suppressInfoWindows:true, zIndex:2});
     google.maps.event.addListener(layer, 'click', eventHandler);
     //トンネル位置
-    var url = "https://kodiful.github.io/yokosuka-tunnels/tunnels1.kml" + rand;
+    var url = "https://kodiful.github.io/tunnels-in-yokosuka/tunnels1.kml" + rand;
     var layer = new google.maps.KmlLayer(url, {map:map, suppressInfoWindows:true, zIndex:3});
     google.maps.event.addListener(layer, 'click', eventHandler);
   } catch(e) {
