@@ -12,7 +12,7 @@ function initialize() {
   var url = "https://kodiful.github.io/tunnels-in-yokosuka/route.kml";
   var layer = new google.maps.KmlLayer(url, {map:map, suppressInfoWindows:true, zIndex:1});
   google.maps.event.addListener(layer, 'click', (evt) => {
-    win.setContent(evt.featureData.description||evt.featureData.name);
+    win.setContent(evt.featureData.description);
     win.setPosition(evt.latLng);
     win.open(map);
   });
@@ -20,7 +20,7 @@ function initialize() {
   var url = "https://kodiful.github.io/tunnels-in-yokosuka/tunnels2.kml";
   var layer = new google.maps.KmlLayer(url, {map:map, suppressInfoWindows:true, zIndex:2});
   google.maps.event.addListener(layer, 'click', (evt) => {
-    win.setContent(evt.featureData.description||evt.featureData.name);
+    win.setContent(evt.featureData.name);
     win.setPosition(evt.latLng);
     win.open(map);
   });
@@ -29,7 +29,7 @@ function initialize() {
   var layer = new google.maps.KmlLayer(url, {map:map, suppressInfoWindows:true, zIndex:3});
   // イベントハンドラ
   google.maps.event.addListener(layer, 'click', (evt) => {
-    win.setContent(evt.featureData.description||evt.featureData.name);
+    win.setContent(evt.featureData.name);
     win.setPosition(evt.latLng);
     win.open(map);
   });
