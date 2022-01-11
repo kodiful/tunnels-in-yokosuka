@@ -3981,7 +3981,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <styleUrl>#icon</styleUrl>
+          <styleUrl>#icon-orange</styleUrl>
           <name>階段</name>
           <description><![CDATA[<div>本町山中有料道路側道から国道16号へ下りる階段</div>]]></description>
           <Point>
@@ -3989,7 +3989,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <styleUrl>#icon</styleUrl>
+          <styleUrl>#icon-orange</styleUrl>
           <name>階段</name>
           <description><![CDATA[<div>池上7丁目から東逸見町4丁目に下りる階段</div>]]></description>
           <Point>
@@ -3997,7 +3997,7 @@
           </Point>
         </Placemark>
         <Placemark>
-          <styleUrl>#icon</styleUrl>
+          <styleUrl>#icon-orange</styleUrl>
           <name>階段</name>
           <description><![CDATA[<div>枇杷山トンネル出口から衣笠栄町へ下りる階段</div>]]></description>
           <Point>
