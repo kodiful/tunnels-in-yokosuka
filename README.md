@@ -1,6 +1,6 @@
-[![横須賀トンネルめぐり](https://kodiful.github.io/yokosuka-tunnels/images/map.png)](https://kodiful.github.io/yokosuka-tunnels/)
+[![横須賀トンネルめぐり](https://kodiful.github.io/tunnels-in-yokosuka/images/map.png)](https://kodiful.github.io/tunnels-in-yokosuka/)
 
-一筆書きの要領で、横須賀市内の一般道のトンネルを全て通る全長約110kmのルートを、[Googleマップで可視化](https://kodiful.github.io/yokosuka-tunnels/)しました。
+一筆書きの要領で、横須賀市内の一般道のトンネルを全て通る全長約110kmのルートを、[Googleマップで可視化](https://kodiful.github.io/tunnels-in-yokosuka/)しました。
 
 ながかまトンネルを始点、長瀬トンネルを終点としています。
 
