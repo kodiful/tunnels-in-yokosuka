@@ -4014,7 +4014,7 @@
       <Style id='icon-red'>
         <IconStyle>
           <Icon>
-            <href>https://kodiful.github.io/tunnels-in-yokoauks/icons/icon-red.png</href>
+            <href>https://kodiful.github.io/tunnels-in-yokosuka/icons/icon-red.png</href>
           </Icon>
           <hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
           <scale>1</scale>
@@ -4023,7 +4023,7 @@
       <Style id='icon'>
         <IconStyle>
           <Icon>
-            <href>https://kodiful.github.io/tunnels-in-yokoauks/icons/icon-blue.png</href>
+            <href>https://kodiful.github.io/tunnels-in-yokosuka/icons/icon-blue.png</href>
           </Icon>
           <hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
           <scale>1</scale>
@@ -4032,7 +4032,7 @@
       <Style id='icon-orange'>
         <IconStyle>
           <Icon>
-            <href>https://kodiful.github.io/tunnels-in-yokoauks/icons/icon-orange.png</href>
+            <href>https://kodiful.github.io/tunnels-in-yokosuka/icons/icon-orange.png</href>
           </Icon>
           <hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
           <scale>1</scale>
@@ -4041,7 +4041,7 @@
       <Style id='icon-green'>
         <IconStyle>
           <Icon>
-            <href>https://kodiful.github.io/tunnels-in-yokoauks/icons/icon-green.png</href>
+            <href>https://kodiful.github.io/tunnels-in-yokosuka/icons/icon-green.png</href>
           </Icon>
           <hotSpot x="0.5" y="0.0" xunits="fraction" yunits="fraction"/>
           <scale>1</scale>
