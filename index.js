@@ -10,7 +10,7 @@ function initialize() {
   var win = new google.maps.InfoWindow();
   //ルート
   var url = "https://kodiful.github.io/tunnels-in-yokosuka/route.kml";
-  var layer = new google.maps.KmlLayer(url, {map:map, suppressInfoWindows:true, zIndex:1});
+  var layer = new google.maps.KmlLayer(url, {map: map, suppressInfoWindows: true, zIndex: 1});
   google.maps.event.addListener(layer, 'click', (evt) => {
     win.setContent(evt.featureData.description);
     win.setPosition(evt.latLng);
@@ -18,7 +18,7 @@ function initialize() {
   });
   //トンネル区間
   var url = "https://kodiful.github.io/tunnels-in-yokosuka/tunnels2.kml";
-  var layer = new google.maps.KmlLayer(url, {map:map, suppressInfoWindows:true, zIndex:2});
+  var layer = new google.maps.KmlLayer(url, {map: map, suppressInfoWindows: true, zIndex: 2});
   google.maps.event.addListener(layer, 'click', (evt) => {
     win.setContent(evt.featureData.name);
     win.setPosition(evt.latLng);
@@ -26,7 +26,7 @@ function initialize() {
   });
   //トンネル位置
   var url = "https://kodiful.github.io/tunnels-in-yokosuka/tunnels1.kml";
-  var layer = new google.maps.KmlLayer(url, {map:map, suppressInfoWindows:true, zIndex:3});
+  var layer = new google.maps.KmlLayer(url, {map: map, suppressInfoWindows: true, zIndex: 3});
   google.maps.event.addListener(layer, 'click', (evt) => {
     win.setContent(evt.featureData.name);
     win.setPosition(evt.latLng);
