@@ -27,7 +27,6 @@ function initialize() {
   //トンネル位置
   var url = "https://kodiful.github.io/tunnels-in-yokosuka/tunnels1.kml";
   var layer = new google.maps.KmlLayer(url, {map:map, suppressInfoWindows:true, zIndex:3});
-  // イベントハンドラ
   google.maps.event.addListener(layer, 'click', (evt) => {
     win.setContent(evt.featureData.name);
     win.setPosition(evt.latLng);
